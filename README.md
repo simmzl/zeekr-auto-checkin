@@ -76,7 +76,7 @@ openclaw 帮你跑签到，需要先从极氪 App 的网络请求里抓到两个
 复制下面命令给 openclaw 执行：
 
 ```bash
-帮我安装这个 skill：npx skills add simmzl/zeekr-auto-checkin
+帮我安装这个 skill：https://github.com/simmzl/zeekr-auto-checkin
 ```
 
 然后在 openclaw 里说：
